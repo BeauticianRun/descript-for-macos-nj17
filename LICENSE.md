@@ -1,4 +1,4 @@
-# 
+# smart Descript for macOS Overlay | audio-cleanup + scene-transitions is the best Descript for macOS overlay, featuring audio-cleanup and scene-transitions. Safe, efficient, and
 
 
 
